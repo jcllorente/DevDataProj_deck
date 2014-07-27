@@ -49,7 +49,7 @@ with (iris,plot(Petal.Width,Petal.Length, col=Species,
       main="Petal plot with a random sample of 150 records"))
 abline(fit, col="blue")
 ```
-1. A dynamic X-Y plot like the one attached showing:
+1. A dynamic X-Y plot like the one attached (R code with echo=F) showing:
     * The value of the random set of variables selected, coloured by the value of Species. 
     * Dynamic title and axis labels corresponding to inputs selected. 
     * Computed linear regression fit a as blue line. 

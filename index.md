@@ -54,9 +54,9 @@ Main output is displayed since start, aiming to ease the use and evaluation of t
 ## User interface: outputs
 
 Outputs shown in the right main panel include: 
-![plot of chunk plot](figure/plot.png) 
+![plot of chunk plot](assets/fig/plot.png) 
 
-1. A dynamic X-Y plot like the one attached showing:
+1. A dynamic X-Y plot like the one attached (R code with echo=F) showing:
     * The value of the random set of variables selected, coloured by the value of Species. 
     * Dynamic title and axis labels corresponding to inputs selected. 
     * Computed linear regression fit a as blue line. 
